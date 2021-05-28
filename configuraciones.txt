@@ -1,1 +1,2 @@
 configuracion terraform 
+configuracion aws
